@@ -1,6 +1,6 @@
 /* Changed the font */
 
-body{
-    font-family:'Courier New', Courier, monospace;
-    font-size: 18px;
+body {
+    font-family:'Gill Sans', 'Gill Sans MT';
+    font-size-adjust: 18px;
 }
