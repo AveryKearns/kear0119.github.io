@@ -4,7 +4,9 @@ body {
     font-family: Georgia, sans-serif;
     font-size: 18px;
 }
+
 /*Changed background color*/
-header {
-    color:#ff0000;
+
+h1, footer {
+    background-color:#ff0000;
 }
