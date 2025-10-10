@@ -24,3 +24,7 @@ h1, footer {
 }
 
 /* Changed the Bullets to Squares */
+
+li {
+    list-style: Square;
+}
