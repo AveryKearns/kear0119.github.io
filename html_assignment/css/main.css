@@ -25,6 +25,12 @@ h1, footer {
 
 /* Changed the Bullets to Squares */
 
-#my-list {
+.my-list {
     list-style-type: square;
+}
+
+/* nth child list */
+
+.list-items:nth-child(odd){
+    background-color:green;
 }
