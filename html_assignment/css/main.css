@@ -10,3 +10,9 @@ body {
 h1, footer {
     background-color:#ff0000;
 }
+
+/*Added text colour*/
+
+.site-title {
+    color:blueviolet;
+}
